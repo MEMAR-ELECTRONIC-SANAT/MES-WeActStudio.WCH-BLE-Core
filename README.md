@@ -1,42 +1,70 @@
-* [中文版本](./README-zh.md)
+* [نسخه چینی](./README-zh.md)
+
 # WeActStudio.WCH-BLE-Core
-![display](Images/1.png)
-CH573F
-> 60Mhz Max,18KB RAM,448KB ROM,RISC-V3A,BLE 4.2
 
-CH582F
-> 60Mhz Max,32KB RAM,448KB ROM,RISC-V4A,BLE 5.3
+![نمای برد](Images/1.png)
 
-![display](Images/2.png)
-CH592F
-> 60Mhz Max,32KB RAM,448KB ROM,RISC-V4C,BLE 5.4
+## معرفی تراشه‌ها
 
-![display](Images/3.png)
-CH584F
-> 78Mhz Max,96KB RAM,448+24+32KB ROM,RISC-V3C,BLE 5.4
-WCH Official Website www.wch.cn(zh-CN) / www.wch-ic.com(en)
+### CH573F
+> حداکثر فرکانس کاری: 60MHz، حافظه RAM: 18KB، حافظه ROM: 448KB، هسته RISC-V3A، پشتیبانی از BLE 4.2
 
-|Dir Name|Explain|
-| :--:|:--:|
-|Doc|DataSheet/ReferenceManual|
-|HDK|Hardware Development Kit|
-|SDK|Software Development Kit|
-|Examples|Software Examples|
+### CH582F
+> حداکثر فرکانس کاری: 60MHz، حافظه RAM: 32KB، حافظه ROM: 448KB، هسته RISC-V4A، پشتیبانی از BLE 5.3
 
-## How to download the program
-Method
-1. Install `WCHISPTool_Setup.exe` in `Tools` directory
-2. Install `CH372DRV.EXE` in `Tools` directory or download from `http://www.wch-ic.com/downloads/CH372DRV_EXE.html`
-3. Hold the BOOT key and then use USB cable connect to your computer,and then release BOOT key
-4. Open `WCHISPTool` && find `CH57x Series` or `CH58x Series` or `CH59x Series`
+![نمای برد](Images/2.png)
 
-```
-/*---------------------------------------
-- WeAct Studio Official Link
-- taobao: weactstudio.taobao.com
-- aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActStudio
-- gitee: gitee.com/WeActStudio
-- blog: blog.weactstudio.com
----------------------------------------*/
-```
+### CH592F
+> حداکثر فرکانس کاری: 60MHz، حافظه RAM: 32KB، حافظه ROM: 448KB، هسته RISC-V4C، پشتیبانی از BLE 5.4
+
+![نمای برد](Images/3.png)
+
+### CH584F
+> حداکثر فرکانس کاری: 78MHz، حافظه RAM: 96KB، حافظه ROM: 448+24+32KB، هسته RISC-V3C، پشتیبانی از BLE 5.4
+
+وب‌سایت رسمی شرکت WCH:
+- چینی: [www.wch.cn](https://www.wch.cn)
+- انگلیسی: [www.wch-ic.com](https://www.wch-ic.com)
+
+## ساختار پوشه‌ها
+
+| نام پوشه | توضیحات |
+| :--: | :--: |
+| `Doc` | دیتاشیت‌ها و راهنمای مرجع (Reference Manual) |
+| `HDK` | مجموعه طراحی سخت‌افزار (Hardware Development Kit) |
+| `SDK` | بسته توسعه نرم‌افزار (Software Development Kit) |
+| `Examples` | نمونه‌برنامه‌ها و مثال‌های نرم‌افزاری |
+
+## روش پروگرام کردن تراشه
+
+برای پروگرام کردن تراشه، مراحل زیر را انجام دهید:
+
+1. فایل نصب `WCHISPTool_Setup.exe` را از پوشه `Tools` اجرا و نرم‌افزار را نصب کنید.
+2. درایور `CH372DRV.EXE` موجود در پوشه `Tools` را نصب کنید. همچنین می‌توانید آن را از [وب‌سایت رسمی WCH](http://www.wch-ic.com/downloads/CH372DRV_EXE.html) دریافت کنید.
+3. کلید `BOOT` را نگه دارید، سپس برد را با کابل USB به رایانه متصل کنید و پس از اتصال، کلید `BOOT` را رها کنید.
+4. نرم‌افزار `WCHISPTool` را اجرا کنید و خانواده تراشه متناسب با برد خود را انتخاب کنید:
+   - `CH57x Series`
+   - `CH58x Series`
+   - `CH59x Series`
+
+## پیوندهای رسمی WeAct Studio
+
+- فروشگاه Taobao: [weactstudio.taobao.com](https://weactstudio.taobao.com)
+- فروشگاه AliExpress: [weactstudio.aliexpress.com](https://weactstudio.aliexpress.com)
+- گیت‌هاب: [github.com/WeActStudio](https://github.com/WeActStudio)
+- Gitee: [gitee.com/WeActStudio](https://gitee.com/WeActStudio)
+- وبلاگ: [blog.weactstudio.com](https://blog.weactstudio.com)
+
+---
+
+## تهیه و تدوین
+
+**معمار الکترونیک صنعت**  
+**MEMAR ELECTRONIC SANAT (MES)**
+
+همراه شما در مسیر طراحی و ساخت مدارهای مطمئن
+
+- کانال تلگرام: [https://t.me/Memar_Electronic](https://t.me/Memar_Electronic)
+- پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
+
+[مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
