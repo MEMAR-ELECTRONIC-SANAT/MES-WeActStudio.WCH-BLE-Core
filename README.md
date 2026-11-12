@@ -2,7 +2,16 @@
 
 # WeActStudio.WCH-BLE-Core
 
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Hero-Banner.svg" width="100%" alt="MEMAR ELECTRONIC SANAT — MES">
+</p>
+
 ![نمای برد](Images/1.png)
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Section-Header.svg" width="100%" alt="WCH BLE Microcontroller Families">
+</p>
 
 ## معرفی تراشه‌ها
 
@@ -25,6 +34,11 @@
 وب‌سایت رسمی شرکت WCH:
 - چینی: [www.wch.cn](https://www.wch.cn)
 - انگلیسی: [www.wch-ic.com](https://www.wch-ic.com)
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Project-Card.svg" width="100%" alt="BLE Core Hardware, Firmware and SDK Resources">
+</p>
 
 ## ساختار پوشه‌ها
 
@@ -59,6 +73,11 @@
 
 ![MES Divider](Images/MES-Divider.svg)
 
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Status-Strip.svg" width="100%" alt="MES Embedded Engineering Resources">
+</p>
+
 ## تهیه و تدوین
 
 **معمار الکترونیک صنعت**  
@@ -70,3 +89,8 @@
 - پیج اینستاگرام: [https://www.instagram.com/Memar.Electronic](https://www.instagram.com/Memar.Electronic)
 
 [مشاهده سایر آموزش‌ها](https://github.com/MEMAR-ELECTRONIC-SANAT)
+
+
+<p align="center">
+  <img src="Images/GitHub-Assets/MES-Thank-You-Footer.svg" width="100%" alt="Thank you for visiting MES">
+</p>
